@@ -1,0 +1,79 @@
+======================================================
+EMPIRISCHER BERICHT: KI-BOOM & INFRASTRUKTUR-BOTTLENECKS
+Zeitraum: 2020-01-01 bis heute (Inkl. ChatGPT Launch)
+======================================================
+
+1. GESAMTPERFORMANCE (Annualisiert)
+----------------------------------------
+  SMCI: Rendite   89.4% p.a. | Volatilität  90.0% p.a.
+   VRT: Rendite   83.9% p.a. | Volatilität  65.2% p.a.
+  PLTR: Rendite   74.2% p.a. | Volatilität  67.5% p.a.
+  NVDA: Rendite   63.5% p.a. | Volatilität  52.6% p.a.
+    MU: Rendite   63.4% p.a. | Volatilität  53.6% p.a.
+   VST: Rendite   57.5% p.a. | Volatilität  49.8% p.a.
+   CEG: Rendite   57.2% p.a. | Volatilität  49.5% p.a.
+  AVGO: Rendite   56.1% p.a. | Volatilität  44.9% p.a.
+    GE: Rendite   41.4% p.a. | Volatilität  31.3% p.a.
+   TSM: Rendite   33.4% p.a. | Volatilität  38.3% p.a.
+  ASML: Rendite   29.0% p.a. | Volatilität  43.2% p.a.
+   ETN: Rendite   25.0% p.a. | Volatilität  31.0% p.a.
+  MSFT: Rendite   11.1% p.a. | Volatilität  27.2% p.a.
+   NEE: Rendite    5.5% p.a. | Volatilität  27.9% p.a.
+     D: Rendite   -0.8% p.a. | Volatilität  23.4% p.a.
+
+
+2. DRAWDOWN ANALYSE (Maximum seit Jan 2020)
+----------------------------------------
+  SMCI:  -84.8%
+  PLTR:  -84.6%
+   VRT:  -71.2%
+  NVDA:  -66.4%
+    GE:  -58.3%
+    MU:  -57.8%
+  ASML:  -57.4%
+   TSM:  -57.1%
+     D:  -56.0%
+   CEG:  -50.8%
+   VST:  -48.9%
+  AVGO:  -48.3%
+   NEE:  -47.2%
+   ETN:  -45.0%
+  MSFT:  -37.6%
+
+
+3. SPITZEN-VOLATILITÄT (Höchste rollierende 60-Tage Volatilität)
+----------------------------------------
+  SMCI:  158.7% p.a.
+   VRT:  106.9% p.a.
+   VST:  104.9% p.a.
+  PLTR:  101.5% p.a.
+   CEG:   93.9% p.a.
+    MU:   85.6% p.a.
+  AVGO:   83.9% p.a.
+  NVDA:   79.8% p.a.
+  ASML:   61.3% p.a.
+   TSM:   58.7% p.a.
+   ETN:   57.9% p.a.
+    GE:   45.2% p.a.
+   NEE:   43.9% p.a.
+  MSFT:   42.3% p.a.
+     D:   35.1% p.a.
+
+
+4. KORRELATION MIT NVDA (Gesamtzeitraum)
+----------------------------------------
+   TSM: 0.699
+  ASML: 0.666
+  AVGO: 0.641
+  MSFT: 0.606
+   VRT: 0.590
+    MU: 0.575
+   ETN: 0.549
+  PLTR: 0.492
+  SMCI: 0.475
+    GE: 0.444
+   VST: 0.423
+   CEG: 0.374
+   NEE: 0.109
+     D: -0.042
+
