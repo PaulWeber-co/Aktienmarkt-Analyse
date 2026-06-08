@@ -1,0 +1,16 @@
+Symbol,Unternehmen,Sektor,Kategorie
+NVDA,NVIDIA,KI-Chips,KI-Hardware
+AVGO,Broadcom,KI-Chips,KI-Hardware
+TSM,Taiwan Semiconductor,Halbleiter-Fertigung,KI-Hardware
+ASML,ASML Holdings,Halbleiter-Equipment,KI-Hardware
+MU,Micron Technology,Speicher/HBM,KI-Hardware
+MSFT,Microsoft,KI-Software/Cloud,KI-Software
+PLTR,Palantir Technologies,KI-Software/Analytics,KI-Software
+SMCI,Super Micro Computer,Server-Hardware,KI-Hardware
+VRT,Vertiv Holdings,DC-Kühlung,Infrastruktur
+ETN,Eaton Corporation,Stromversorgung/Grid,Infrastruktur
+GE,GE Vernova / General Electric,Energietechnik,Infrastruktur
+CEG,Constellation Energy,Kernkraft,Energie
+VST,Vistra Corp,Stromerzeugung,Energie
+D,Dominion Energy,Versorger,Energie
+NEE,NextEra Energy,Erneuerbare Energie,Energie
